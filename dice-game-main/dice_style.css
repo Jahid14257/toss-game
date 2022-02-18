@@ -1,0 +1,68 @@
+/*-----------------------Class-------------------*/
+
+
+
+/*-------------------------ID--------------------*/
+
+#Haeder {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+
+#Player1 {
+  position: absolute;
+  width: 50%;
+  top: 350px;
+  text-align: center;
+}
+
+#Player2 {
+  position: absolute;
+  position: absolute;
+  width: 50%;
+  top: 350px;
+  left: 50%;
+  text-align: center;
+}
+
+#haed-img {
+  height: 100px;
+  transform: rotate(150deg);
+}
+
+#owner {
+  position: relative;
+  top: 680px;
+  left: 900px;
+  font-size: 30px;
+}
+
+/*-------------------------Tag--------------------*/
+body {
+    background-color: rgb(35, 48, 48);
+    margin: 0px;
+  }
+
+img{
+  height: 200px;
+}
+
+h1 {
+  font-size: 150px;
+  margin: 0px;
+  font-family: 'Anton', sans-serif;
+  color: aqua;
+}
+
+h2 {
+  font-size: 100px;
+  margin: 0px;
+  color: brown;
+}
+
+p {
+  font-size: 50px;
+  color: #39e600;
+}
